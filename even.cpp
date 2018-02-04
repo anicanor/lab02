@@ -23,6 +23,7 @@ int main(){
     if (all_even == false){
 
         cerr << "not all even" << endl;
+        return 1;
 
     }else{
 
